@@ -1,6 +1,6 @@
-# Title: JPM's Onyx Tackles International Payments with the Help of Blockchain  
+# JPM's Onyx Tackles International Payments with the Help of Blockchain  
 
-Image
+![](ONYX-Logo.jpeg) 
 
 ## Overview and Origin
 
@@ -9,6 +9,7 @@ Name of company:
 
 
 https://www.youtube.com/watch?v=Sgw9zo4zvqA
+
 Company Incorporated: 
 - Oct. 2020 
 
@@ -21,6 +22,7 @@ Onyx Founders / Important Figures:
 
 
 https://www.ledgerinsights.com/jpm-coin-goes-into-production-launches-jp-morgan-onyx-blockchain-unit/
+
 How the company came about:
 
 - There has been a trend of new FinTech firms which use tech to develop new channels in the financial system bipassing traditional banks. This is the case in domains such as lending, payments, investment management, insurance, and personal finance. As these startups develop a new peer-to-peer (P2P) system of doing business, traditional institutions must pivot and adopt some of this new technology in order to compete with these tech companies and startups.
@@ -44,6 +46,7 @@ The financial problem Onyx is trying to solve:
 
 
 https://www.oliverwyman.com/our-expertise/insights/2018/oct/wholesale-payments--disrupt-from-within.html
+
 Who is Onyx's intended customer? How big is the market? What is Onyx's 'unfair advantage' over competitors?
 
 - Onyx is focusing their services for wholesale banking specifically in the payments department, with their intended customers being large institutional clients. PCM (wholesale payments and cash management) provide their instituional clients with solutions to facilitate payments to suppliers, collect funds from customers, and optimize their global cash and liquidity positions. 
@@ -52,10 +55,13 @@ Who is Onyx's intended customer? How big is the market? What is Onyx's 'unfair a
 - Onyx, because of it's connection to JPM, is able to get onboard the current institutions they provide services to and convince them to adopt the new system. This gives them an 'unfair advantage' against new firms trying to enter the market. 
 - One of the most important advantages that Onyx has in comparison to new tech companies is the backing of JPM. Having such a reputable institution advancing in the field helps to settle investors fears about implementing a new technology, and that trust is what can lead to widespread adoption. 
 
-Image
+![](JPMC-Coin-Diagram.png)
 
 https://www.bankingcircle.com/what-is-a-payments-api-119822#:~:text=Application%20Programming%20Interfaces%20(APIs)%20enable,and%20lower%20cost%20transaction%20processing.
 https://www.jpmorgan.com/solutions/cib/news/digital-coin-payments
+
+https://www.youtube.com/watch?v=Sgw9zo4zvqA
+
 What are some of the technologies used by Onyx in order to reach their goals? 
 
 - Cryptocurrencies through the development of JPM Coin which will allow payments to settle instantly in comparison to the current system which takes transactions days to settle. JPM Coin is helping  create a permissioned and shared account ledger for new 'payment rail' infrastructure. This will allow JPM clients to transfer USD held in deposit by JPM to facilitate real-time value movement to solve traditional cross-border payments.   
@@ -64,12 +70,19 @@ What are some of the technologies used by Onyx in order to reach their goals?
 - Blockchain is the foundation of the Onyx infrastructure. It can be considered a ledger of client payments when transfering USD to JPM Coin then back to USD. When integrated into the blockchain, transactions can be traced in a transparent, trusted manner to provide efficency and openness of payments. The ledger built on the blockchain allows banks to exchange payment data, resolve compliance inquiries, and validate accounts. 
 
 
+
+
+
+
+
 ## Landscape:
 
 In which financial domain does Onyx function?
 
 - Onyx is working in the payments domain, specifically wholesale payments to improve operations. 
 - The parent company to Onyx is JPM Chase, one of the worlds largest financial services providers engaging in business activities across domains. 
+
+https://www.investopedia.com/terms/f/fintech.asp
 
 In the past 5-10 years, what have been the major trends and innovations in the payments domain?
 
@@ -80,17 +93,20 @@ In the past 5-10 years, what have been the major trends and innovations in the p
 - The trend of using blockchain to solve problems in the financial industry is just beginning, in order for blockchain to become a truly viable international system it requires mass adoption. 
 
 https://markets.businessinsider.com/news/currencies/blockchain-technology-financial-institutions-jpmorgan-bitcoin-citi-cryptocurrency-transactions-btc-2021-2
+
 Who are the competitors in this domain?
 
 - In the payments domain there are both new aspiring companies, and traditional evolving institutions. 
 - Large banks are now entering the field such as: Citi, Wells Fargo, US Bancorp, PNC, Fifth Third Bank, and Signature Bank as just a few examples. 
 
 https://www.plus500.com/en-US/Instruments/XRPUSD/Difference-Between-Ripple-XRP-Other-Cryptocurrencies~3
+
 - Ripple = Provides various products such as XRP to transfer money internationally 
 - XRP can process 1500 transactions per second 
 - average ledger settlement (approval time) 3-5 seconds -- in comparison: ether takes 13 sec and btc takes 10 min
 
 https://www.investopedia.com/articles/personal-finance/050515/how-swift-system-works.asp
+
 - SWIFT (Society for Worldwide Interbank Financial Telecommunications)= International money transfer system, sending and recieving money from banks across the world. 
 - 11,000 institutions sent over 35 million transactions per day through the SWIFT network in 2020
 - 42.5 million average messages per day on YTD basis in March 2021 -- traffic increased 9.8% vs previous year
@@ -104,10 +120,14 @@ What has Onyx been able to do so far?
 - JPM Coin is already being utilized by large corporations in order to process billions of dollars worth of transactions.  
 - The Liink network is a blockchain sustained "Interbank Information Network" which current has 400+ clients including the largest banks in the world across 78 different countries.
 
+https://cointelegraph.com/news/jpmorgan-chase-execs-weigh-in-on-stablecoin-regulation-crypto-competition
+
 How does regulation fit in this process? 
 
 - JPM is an established institution in the United States, compliant with US and international banking laws and regulations. Having such a trusted institution advancing in the field helps to settle investors fears about implementing a new technology, and that trust is what can lead to widespread adoption. 
 - As one of the largest financial services providers, JPM has a very large regulatory branch in order to look over their operations. This will provide an advantage as new rules and regulations emerge in the cryptocurrency and blockchain industry, allowing Onyx to adjust accordingly. 
+
+https://hedgetrade.com/jpm-coin-vs-xrp/
 
 What are the metrics which determine the success of companies in this domain?
 
@@ -115,6 +135,7 @@ What are the metrics which determine the success of companies in this domain?
 - One of the important figures to watch is to what ability the company has to transition the $6 trillion in daily payments JPM processes into the new Onyx infrastructure. 
 - Wholesale payments have long been standardized in a well known system and new tech solutions come with uncertainty which is one of the problems to solve for broad adoption of the new system. This uncertainty is combatted with trust, and that is one of the major advantages of the Onyx system. The company which provides the highest level of trust is most likely to succeed. 
 
+https://hedgetrade.com/jpm-coin-vs-xrp/
 
 How is Onyx doing versus their competitors?
 
@@ -126,12 +147,14 @@ How is Onyx doing versus their competitors?
 ## Recommendations
 
 https://www.oliverwyman.com/our-expertise/insights/2018/oct/wholesale-payments--disrupt-from-within.html
+
 Advice on any products or services which Onyx could offer to improve their business model?
 
 - One of the main differences between Onyx and tech firms is that tech firms have the ability to create then pivot and adapt to changes in the environment and client desires. Onyx should approach the project as a new tech firm would as opposed to an incumbent, serving the customer as the priorty to learn their needs, pain-points, and goals.
 - One way in which Onyx could focus on customers is by providing a line of credit in order for financial institutions to conduct cross-border transactions.
 - The Ripple payment system has incorporated this service into their business model with use of their XRP cryptocurrency, and there is no reason that Onyx can not provide the same service with JPM Coin. 
 
+https://ripple.com/
 
 How would this service benefit the company? 
 
@@ -140,6 +163,7 @@ How would this service benefit the company?
 - This service will attract many new customers to the Onyx platform which previously may have been too small, but with a line of credit able to partake in the payment network. This could be the case for firms operating at small margins, allowing them to benefit by reinvesting a portion of the cash that used to be required for payments. 
 - JPM is one of the largest lenders in the world, allowing operations to function and grow by providing capital to those who would benefit. Offering a service such as a line of credit is not much different than what the firm already does, but in a new environment using new technologies (which of course comes with its own, new risks). The fee collected by JPM for providing this liquidity for clients will be another source of revenue for the firm.   
   
+https://www.bankrate.com/loans/personal-loans/cryptocurrency-lending/
 
 What tech will this service use utilize?
 
